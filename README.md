@@ -1,6 +1,7 @@
-﻿   ⬇️⚠️ JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
+RDP - FREE
 
- https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1
+© Zaky
+
 
 + RDP Windows Gratis 6 Jam
 
@@ -18,14 +19,14 @@
 
 + Tekan Add secret
 
-+ Pergi Ke Action <Klik Select workflow< Pilih Har Pito,Pencet Run workflow
++ Pergi Ke Action <Klik Select workflow< Pilih Zaky,Pencet Run workflow
 
-+ Refresh Web/halaman dan masuk ke Har Pito> klik build
++ Refresh Web/halaman dan masuk ke Zaky> klik build
 
 + *Tunggu 1-5 menit*
 
 + Tekan Tombol panah menghadap ke bawah Yg bertuliskan (Connect RDP.) Untuk Mendapatkan IP, User, Password.
 
-+  ```Peringatan jika Rdp close silahkan klik Action<Pilih Har Pito<Klik build, Klik titik tiga klik run-rensjob dan jalan kan lagi Rdp nya```
++  ```Peringatan jika Rdp close silahkan klik Action<Pilih Zaky<Klik build, Klik titik tiga klik run-rensjob dan jalan kan lagi Rdp nya```
 
 
